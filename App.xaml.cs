@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace CW6_DataBase
+namespace CSCI_352_CW6
 {
     /// <summary>
     /// Interaction logic for App.xaml

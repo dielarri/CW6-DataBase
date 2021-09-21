@@ -1,7 +1,7 @@
-﻿<Application x:Class="CW6_DataBase.App"
+﻿<Application x:Class="CSCI_352_CW6.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:CW6_DataBase"
+             xmlns:local="clr-namespace:CSCI_352_CW6"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
